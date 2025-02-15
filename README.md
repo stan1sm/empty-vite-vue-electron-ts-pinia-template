@@ -1,0 +1,1 @@
+# empty-vite-vue-electron-ts-pinia-template
