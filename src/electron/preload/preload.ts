@@ -1,5 +1,3 @@
-// All of the Node.js APIs are available in the preload process.
-// It has the same sandbox as a Chrome extension.
 import { contextBridge, ipcRenderer } from 'electron'
 window.addEventListener('DOMContentLoaded', () => {
   const replaceText = (selector: any, text: any) => {
