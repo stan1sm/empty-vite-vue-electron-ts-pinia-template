@@ -68,4 +68,4 @@ _Placeholder: none yet._
 
 ## License
 
-The upstream project is MIT-licensed by Yukun Guo, but this repository currently has no `LICENSE` file (the upstream one was removed in an earlier commit). Restoring it is an open decision for the repository owner.
+The upstream project is MIT-licensed by Yukun Guo, and the upstream MIT `LICENSE` (copyright Yukun Guo) has been restored in this repository.
